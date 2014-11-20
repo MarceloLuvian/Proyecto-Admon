@@ -70,7 +70,7 @@
                 <customproperty taskproperty-id="tpc1" value="1dia"/>
             </task>
         </task>
-        <task id="54" name="Inicio de suftware con ICONIX" meeting="false" start="2014-09-29" duration="16" complete="56" expand="true">
+        <task id="54" name="Inicio de suftware con ICONIX" meeting="false" start="2014-09-29" duration="16" complete="100" expand="true">
             <customproperty taskproperty-id="tpc0" value=""/>
             <customproperty taskproperty-id="tpc1" value="2"/>
             <task id="91" name="Analisis de los requerimientos" color="#8cb6ce" meeting="false" start="2014-09-29" duration="3" complete="100" expand="true">
@@ -93,24 +93,24 @@
                 <customproperty taskproperty-id="tpc0" value="Juan Marcelo, Diana, Jovany"/>
                 <customproperty taskproperty-id="tpc1" value="2dias"/>
             </task>
-            <task id="58" name="Diagrama de robustez" meeting="false" start="2014-10-08" duration="8" complete="0" expand="true">
+            <task id="58" name="Diagrama de robustez" color="#8cb6ce" meeting="false" start="2014-10-08" duration="8" complete="100" expand="true">
                 <customproperty taskproperty-id="tpc0" value="Juan Marcelo, Diana, Jovany"/>
                 <customproperty taskproperty-id="tpc1" value="2dias"/>
             </task>
-            <task id="59" name="Diagramas de secuencia" meeting="false" start="2014-10-10" duration="6" complete="0" expand="true">
+            <task id="59" name="Diagramas de secuencia" color="#8cb6ce" meeting="false" start="2014-10-10" duration="6" complete="100" expand="true">
                 <customproperty taskproperty-id="tpc0" value="Juan Marcelo, Diana, Jovany"/>
                 <customproperty taskproperty-id="tpc1" value="4dias"/>
             </task>
-            <task id="60" name="Diagrama de clases" meeting="false" start="2014-10-15" duration="3" complete="0" expand="true">
+            <task id="60" name="Diagrama de clases" color="#8cb6ce" meeting="false" start="2014-10-15" duration="3" complete="100" expand="true">
                 <customproperty taskproperty-id="tpc0" value="Juan Marcelo, Diana, Jovany"/>
                 <customproperty taskproperty-id="tpc1" value="2dias"/>
             </task>
-            <task id="89" name="Hito 2 - Documento de inicio de software ICONIX" meeting="false" start="2014-10-20" duration="1" complete="0" expand="true">
+            <task id="89" name="Hito 2 - Documento de inicio de software ICONIX" color="#8cb6ce" meeting="false" start="2014-10-20" duration="1" complete="100" expand="true">
                 <customproperty taskproperty-id="tpc0" value="Juan Marcelo, Diana, Jovany"/>
                 <customproperty taskproperty-id="tpc1" value="1dia"/>
             </task>
         </task>
-        <task id="16" name="Creacion de la base de datos" meeting="false" start="2014-10-20" duration="6" complete="0" expand="true">
+        <task id="16" name="Creacion de la base de datos" meeting="false" start="2014-10-20" duration="6" complete="50" expand="true">
             <customproperty taskproperty-id="tpc0" value="Jovany, Juan Marcelo"/>
             <customproperty taskproperty-id="tpc1" value="3"/>
             <customproperty taskproperty-id="tpc2" value=""/>
@@ -123,13 +123,13 @@
             <task id="51" name="Modelado del diagrama ER" meeting="false" start="2014-10-22" duration="1" complete="0" expand="true">
                 <customproperty taskproperty-id="tpc1" value="1dia"/>
             </task>
-            <task id="83" name="Instalacion de mysql" meeting="false" start="2014-10-23" duration="1" complete="0" expand="true">
+            <task id="83" name="Instalacion de mysql" color="#8cb6ce" meeting="false" start="2014-10-23" duration="1" complete="100" expand="true">
                 <customproperty taskproperty-id="tpc1" value="1dia"/>
             </task>
-            <task id="84" name="Creacion de la base de datos en mysql" meeting="false" start="2014-10-23" duration="2" complete="0" expand="true">
+            <task id="84" name="Creacion de la base de datos en mysql" color="#8cb6ce" meeting="false" start="2014-10-23" duration="2" complete="100" expand="true">
                 <customproperty taskproperty-id="tpc1" value="3dia"/>
             </task>
-            <task id="53" name="Hito 3 - Documento entregable de base de datos" meeting="false" start="2014-10-27" duration="1" complete="0" expand="true">
+            <task id="53" name="Hito 3 - Documento entregable de base de datos" color="#8cb6ce" meeting="false" start="2014-10-27" duration="1" complete="100" expand="true">
                 <customproperty taskproperty-id="tpc1" value="1dia"/>
             </task>
         </task>
@@ -153,18 +153,18 @@
                 <customproperty taskproperty-id="tpc1" value="1dia"/>
             </task>
         </task>
-        <task id="79" name="Codificacion del software" meeting="false" start="2014-11-03" duration="15" complete="0" expand="true">
+        <task id="79" name="Codificacion del software" meeting="false" start="2014-11-03" duration="15" complete="61" expand="true">
             <customproperty taskproperty-id="tpc1" value="5"/>
-            <task id="80" name="Instalacion de Visual studio" meeting="false" start="2014-11-03" duration="1" complete="0" expand="true">
+            <task id="80" name="Instalacion de Visual studio" color="#8cb6ce" meeting="false" start="2014-11-03" duration="1" complete="100" expand="true">
                 <customproperty taskproperty-id="tpc1" value="1dia"/>
             </task>
-            <task id="81" name="Capasitacion basica - media de manejo de C#" meeting="false" start="2014-11-04" duration="5" complete="0" expand="true">
+            <task id="81" name="Capasitacion basica - media de manejo de C#" color="#8cb6ce" meeting="false" start="2014-11-04" duration="5" complete="100" expand="true">
                 <customproperty taskproperty-id="tpc1" value="6dias"/>
             </task>
-            <task id="85" name="Conexion de C# con Mysql" meeting="false" start="2014-11-11" duration="1" complete="0" expand="true">
+            <task id="85" name="Conexion de C# con Mysql" color="#8cb6ce" meeting="false" start="2014-11-11" duration="1" complete="100" expand="true">
                 <customproperty taskproperty-id="tpc1" value="1dia"/>
             </task>
-            <task id="82" name="Codificacion de la interface del prototipo (Funciones y metodos)" meeting="false" start="2014-11-11" duration="4" complete="0" expand="true">
+            <task id="82" name="Codificacion de la interface del prototipo (Funciones y metodos)" color="#8cb6ce" meeting="false" start="2014-11-11" duration="4" complete="100" expand="true">
                 <customproperty taskproperty-id="tpc1" value="5dias"/>
                 <customproperty taskproperty-id="tpc2" value=""/>
             </task>
