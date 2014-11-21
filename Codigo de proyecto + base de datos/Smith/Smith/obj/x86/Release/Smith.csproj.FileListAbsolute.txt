@@ -1,0 +1,16 @@
+c:\users\marcelo\documents\visual studio 2010\Projects\Smith\Smith\bin\Release\Smith.exe
+c:\users\marcelo\documents\visual studio 2010\Projects\Smith\Smith\bin\Release\Smith.pdb
+c:\users\marcelo\documents\visual studio 2010\Projects\Smith\Smith\obj\x86\Release\SmithyAsociados.AccesoTitular.resources
+c:\users\marcelo\documents\visual studio 2010\Projects\Smith\Smith\obj\x86\Release\Smith.AsignacionSecretaria.resources
+c:\users\marcelo\documents\visual studio 2010\Projects\Smith\Smith\obj\x86\Release\SmithyAsociados.Busqueda.resources
+c:\users\marcelo\documents\visual studio 2010\Projects\Smith\Smith\obj\x86\Release\SmithyAsociados.ConsultarAgenda.resources
+c:\users\marcelo\documents\visual studio 2010\Projects\Smith\Smith\obj\x86\Release\SmithyAsociados.Inicio.resources
+c:\users\marcelo\documents\visual studio 2010\Projects\Smith\Smith\obj\x86\Release\SmithyAsociados.ModificarAgenda.resources
+c:\users\marcelo\documents\visual studio 2010\Projects\Smith\Smith\obj\x86\Release\Smith.NuevaSecretaria.resources
+c:\users\marcelo\documents\visual studio 2010\Projects\Smith\Smith\obj\x86\Release\SmithyAsociados.NuevoAbogado.resources
+c:\users\marcelo\documents\visual studio 2010\Projects\Smith\Smith\obj\x86\Release\SmithyAsociados.Principal.resources
+c:\users\marcelo\documents\visual studio 2010\Projects\Smith\Smith\obj\x86\Release\Smith.Properties.Resources.resources
+c:\users\marcelo\documents\visual studio 2010\Projects\Smith\Smith\obj\x86\Release\Smith.TipoUsuario.resources
+c:\users\marcelo\documents\visual studio 2010\Projects\Smith\Smith\obj\x86\Release\Smith.csproj.GenerateResource.Cache
+c:\users\marcelo\documents\visual studio 2010\Projects\Smith\Smith\obj\x86\Release\Smith.exe
+c:\users\marcelo\documents\visual studio 2010\Projects\Smith\Smith\obj\x86\Release\Smith.pdb

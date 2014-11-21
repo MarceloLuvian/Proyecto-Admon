@@ -1,0 +1,17 @@
+c:\users\marcelo\documents\visual studio 2010\Projects\Smith\Smith\obj\x86\Debug\SmithyAsociados.AccesoTitular.resources
+c:\users\marcelo\documents\visual studio 2010\Projects\Smith\Smith\obj\x86\Debug\SmithyAsociados.Busqueda.resources
+c:\users\marcelo\documents\visual studio 2010\Projects\Smith\Smith\obj\x86\Debug\SmithyAsociados.ConsultarAgenda.resources
+c:\users\marcelo\documents\visual studio 2010\Projects\Smith\Smith\obj\x86\Debug\SmithyAsociados.Inicio.resources
+c:\users\marcelo\documents\visual studio 2010\Projects\Smith\Smith\obj\x86\Debug\SmithyAsociados.ModificarAgenda.resources
+c:\users\marcelo\documents\visual studio 2010\Projects\Smith\Smith\obj\x86\Debug\SmithyAsociados.NuevoAbogado.resources
+c:\users\marcelo\documents\visual studio 2010\Projects\Smith\Smith\obj\x86\Debug\SmithyAsociados.Principal.resources
+c:\users\marcelo\documents\visual studio 2010\Projects\Smith\Smith\obj\x86\Debug\Smith.Properties.Resources.resources
+c:\users\marcelo\documents\visual studio 2010\Projects\Smith\Smith\obj\x86\Debug\Smith.csproj.GenerateResource.Cache
+c:\users\marcelo\documents\visual studio 2010\Projects\Smith\Smith\bin\Debug\Smith.exe
+c:\users\marcelo\documents\visual studio 2010\Projects\Smith\Smith\bin\Debug\Smith.pdb
+c:\users\marcelo\documents\visual studio 2010\Projects\Smith\Smith\obj\x86\Debug\Smith.exe
+c:\users\marcelo\documents\visual studio 2010\Projects\Smith\Smith\obj\x86\Debug\Smith.pdb
+c:\users\marcelo\documents\visual studio 2010\Projects\Smith\Smith\obj\x86\Debug\Smith.NuevaSecretaria.resources
+c:\users\marcelo\documents\visual studio 2010\Projects\Smith\Smith\obj\x86\Debug\Smith.TipoUsuario.resources
+c:\users\marcelo\documents\visual studio 2010\Projects\Smith\Smith\obj\x86\Debug\Smith.AsignacionSecretaria.resources
+C:\Users\Marcelo\documents\visual studio 2010\Projects\Smith\Smith\obj\x86\Debug\Smith.csprojResolveAssemblyReference.cache
