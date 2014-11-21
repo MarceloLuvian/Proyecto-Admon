@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><project name="Gantt" company="" webLink="http://" view-date="2014-09-29" view-index="0" gantt-divider-location="718" resource-divider-location="300" version="2.0" locale="es">
+<?xml version="1.0" encoding="UTF-8"?><project name="Gantt" company="" webLink="http://" view-date="2014-10-13" view-index="0" gantt-divider-location="718" resource-divider-location="300" version="2.0" locale="es">
     <description/>
     <view zooming-state="default:6" id="gantt-chart">
         <field id="tpc1" name="Tiempos" width="7" order="0"/>
@@ -153,12 +153,12 @@
                 <customproperty taskproperty-id="tpc1" value="1dia"/>
             </task>
         </task>
-        <task id="79" name="Codificacion del software" meeting="false" start="2014-11-03" duration="15" complete="61" expand="true">
+        <task id="79" name="Codificacion del software" meeting="false" start="2014-11-03" duration="15" complete="33" expand="true">
             <customproperty taskproperty-id="tpc1" value="5"/>
             <task id="80" name="Instalacion de Visual studio" color="#8cb6ce" meeting="false" start="2014-11-03" duration="1" complete="100" expand="true">
                 <customproperty taskproperty-id="tpc1" value="1dia"/>
             </task>
-            <task id="81" name="Capasitacion basica - media de manejo de C#" color="#8cb6ce" meeting="false" start="2014-11-04" duration="5" complete="100" expand="true">
+            <task id="81" name="Capasitacion basica - media de manejo de C#" color="#8cb6ce" meeting="false" start="2014-11-04" duration="5" complete="0" expand="true">
                 <customproperty taskproperty-id="tpc1" value="6dias"/>
             </task>
             <task id="85" name="Conexion de C# con Mysql" color="#8cb6ce" meeting="false" start="2014-11-11" duration="1" complete="100" expand="true">
