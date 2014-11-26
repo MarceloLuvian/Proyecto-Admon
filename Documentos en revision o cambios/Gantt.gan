@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><project name="Gantt" company="" webLink="http://" view-date="2014-10-13" view-index="0" gantt-divider-location="718" resource-divider-location="300" version="2.0" locale="es">
+<?xml version="1.0" encoding="UTF-8"?><project name="Gantt" company="" webLink="http://" view-date="2014-09-22" view-index="0" gantt-divider-location="718" resource-divider-location="300" version="2.0" locale="es">
     <description/>
     <view zooming-state="default:6" id="gantt-chart">
         <field id="tpc1" name="Tiempos" width="7" order="0"/>
@@ -110,17 +110,17 @@
                 <customproperty taskproperty-id="tpc1" value="1dia"/>
             </task>
         </task>
-        <task id="16" name="Creacion de la base de datos" meeting="false" start="2014-10-20" duration="6" complete="50" expand="true">
+        <task id="16" name="Creacion de la base de datos" meeting="false" start="2014-10-20" duration="6" complete="100" expand="true">
             <customproperty taskproperty-id="tpc0" value="Jovany, Juan Marcelo"/>
             <customproperty taskproperty-id="tpc1" value="3"/>
             <customproperty taskproperty-id="tpc2" value=""/>
-            <task id="49" name="Identificacion de entidades, atributos y relaciones" meeting="false" start="2014-10-20" duration="2" complete="0" expand="true">
+            <task id="49" name="Identificacion de entidades, atributos y relaciones" color="#8cb6ce" meeting="false" start="2014-10-20" duration="2" complete="100" expand="true">
                 <customproperty taskproperty-id="tpc1" value="1dias"/>
             </task>
-            <task id="50" name="Bosquejo general del diagrama ER" meeting="false" start="2014-10-22" duration="1" complete="0" expand="true">
+            <task id="50" name="Bosquejo general del diagrama ER" color="#8cb6ce" meeting="false" start="2014-10-22" duration="1" complete="100" expand="true">
                 <customproperty taskproperty-id="tpc1" value="1dia"/>
             </task>
-            <task id="51" name="Modelado del diagrama ER" meeting="false" start="2014-10-22" duration="1" complete="0" expand="true">
+            <task id="51" name="Modelado del diagrama ER" color="#8cb6ce" meeting="false" start="2014-10-22" duration="1" complete="100" expand="true">
                 <customproperty taskproperty-id="tpc1" value="1dia"/>
             </task>
             <task id="83" name="Instalacion de mysql" color="#8cb6ce" meeting="false" start="2014-10-23" duration="1" complete="100" expand="true">
@@ -133,32 +133,32 @@
                 <customproperty taskproperty-id="tpc1" value="1dia"/>
             </task>
         </task>
-        <task id="15" name="Iniciacion de prototipos rapidos" meeting="false" start="2014-10-27" duration="5" complete="0" expand="true">
+        <task id="15" name="Iniciacion de prototipos rapidos" meeting="false" start="2014-10-27" duration="5" complete="100" expand="true">
             <customproperty taskproperty-id="tpc0" value="Diana Karen, Jovany, Juan Marcelo"/>
             <customproperty taskproperty-id="tpc1" value="4"/>
             <customproperty taskproperty-id="tpc2" value=""/>
-            <task id="45" name="Definicion de prototipo rapido" meeting="false" start="2014-10-27" duration="1" complete="0" expand="true">
+            <task id="45" name="Definicion de prototipo rapido" color="#8cb6ce" meeting="false" start="2014-10-27" duration="1" complete="100" expand="true">
                 <customproperty taskproperty-id="tpc1" value="1dia"/>
             </task>
-            <task id="44" name="Intercambio de ideas sobre el prototipo rapido" meeting="false" start="2014-10-27" duration="1" complete="0" expand="true">
+            <task id="44" name="Intercambio de ideas sobre el prototipo rapido" color="#8cb6ce" meeting="false" start="2014-10-27" duration="1" complete="100" expand="true">
                 <customproperty taskproperty-id="tpc1" value="1dia"/>
             </task>
-            <task id="97" name="Instalacion de Pencil" meeting="false" start="2014-10-27" duration="1" complete="0" expand="true">
+            <task id="97" name="Instalacion de Pencil" color="#8cb6ce" meeting="false" start="2014-10-27" duration="1" complete="100" expand="true">
                 <customproperty taskproperty-id="tpc1" value="1dia"/>
             </task>
-            <task id="46" name="Modelado de plantillas de casos de uso en interfaces con Pencil" meeting="false" start="2014-10-27" duration="3" complete="0" expand="true">
+            <task id="46" name="Modelado de plantillas de casos de uso en interfaces con Pencil" color="#8cb6ce" meeting="false" start="2014-10-27" duration="3" complete="100" expand="true">
                 <customproperty taskproperty-id="tpc1" value="2dias"/>
             </task>
-            <task id="48" name="Hito 4 - Documento entregable sobre prototipos" meeting="false" start="2014-10-31" duration="1" complete="0" expand="true">
+            <task id="48" name="Hito 4 - Documento entregable sobre prototipos" color="#8cb6ce" meeting="false" start="2014-10-31" duration="1" complete="100" expand="true">
                 <customproperty taskproperty-id="tpc1" value="1dia"/>
             </task>
         </task>
-        <task id="79" name="Codificacion del software" meeting="false" start="2014-11-03" duration="15" complete="33" expand="true">
+        <task id="79" name="Codificacion del software" meeting="false" start="2014-11-03" duration="15" complete="100" expand="true">
             <customproperty taskproperty-id="tpc1" value="5"/>
             <task id="80" name="Instalacion de Visual studio" color="#8cb6ce" meeting="false" start="2014-11-03" duration="1" complete="100" expand="true">
                 <customproperty taskproperty-id="tpc1" value="1dia"/>
             </task>
-            <task id="81" name="Capasitacion basica - media de manejo de C#" color="#8cb6ce" meeting="false" start="2014-11-04" duration="5" complete="0" expand="true">
+            <task id="81" name="Capasitacion basica - media de manejo de C#" color="#8cb6ce" meeting="false" start="2014-11-04" duration="5" complete="100" expand="true">
                 <customproperty taskproperty-id="tpc1" value="6dias"/>
             </task>
             <task id="85" name="Conexion de C# con Mysql" color="#8cb6ce" meeting="false" start="2014-11-11" duration="1" complete="100" expand="true">
@@ -168,13 +168,13 @@
                 <customproperty taskproperty-id="tpc1" value="5dias"/>
                 <customproperty taskproperty-id="tpc2" value=""/>
             </task>
-            <task id="87" name="Pruebas del software" meeting="false" start="2014-11-17" duration="3" complete="0" expand="true">
+            <task id="87" name="Pruebas del software" color="#8cb6ce" meeting="false" start="2014-11-17" duration="3" complete="100" expand="true">
                 <customproperty taskproperty-id="tpc1" value="2dias"/>
             </task>
-            <task id="86" name="Identificacion de errores" meeting="false" start="2014-11-17" duration="3" complete="0" expand="true">
+            <task id="86" name="Identificacion de errores" color="#8cb6ce" meeting="false" start="2014-11-17" duration="3" complete="100" expand="true">
                 <customproperty taskproperty-id="tpc1" value="2dias"/>
             </task>
-            <task id="88" name="Hito 5 - Entrega de parte del software funcionando" meeting="false" start="2014-11-21" duration="1" complete="0" expand="true">
+            <task id="88" name="Hito 5 - Entrega de parte del software funcionando" color="#8cb6ce" meeting="false" start="2014-11-21" duration="1" complete="100" expand="true">
                 <customproperty taskproperty-id="tpc1" value="1dia"/>
             </task>
         </task>

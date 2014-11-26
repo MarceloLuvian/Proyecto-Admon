@@ -1,0 +1,3 @@
+create user 'Marcelo'@'localhost' identified by 'zxcv24ab'; 
+grant select, insert, update, delete on bfabogados.* to 'Marcelo'@'localhost'; 
+Flush privileges
